@@ -14,7 +14,6 @@ public class Person {
     }
 
     public String sortName() {
-
         return null;
     }
 }
